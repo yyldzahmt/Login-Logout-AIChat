@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788234425174",
+    "project_id": "kullaniciislemleri-461c7",
+    "storage_bucket": "kullaniciislemleri-461c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788234425174:android:021b03dfa045a71118bcf7",
+        "android_client_info": {
+          "package_name": "com.example.kullanicikayitgiris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788234425174-4n0906get36fnjajpcui31msjoe114ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB72yoBXePcdvTgB_fgPDhfGTmmdkguMys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788234425174-4n0906get36fnjajpcui31msjoe114ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
